@@ -1,4 +1,4 @@
 public interface Rateable {
-    void addRating(int stars);  // 1-5 only
+    void addRating(int stars);
     double getAverageRating();
 }
